@@ -1,0 +1,30 @@
+# Ignore build and IDE folders
+build/
+out/
+.vs/
+release/
+
+# Ignore Visual Studio files
+*.obj
+*.pdb
+*.user
+*.suo
+*.log
+*.cache
+*.tlog
+*.ipch
+*.vcxproj*
+*.sln
+
+# Ignore executables and binaries
+*.exe
+*.dll
+*.lib
+*.a
+*.so
+*.o
+*.dylib
+
+# Ignore OS files
+.DS_Store
+Thumbs.db 
